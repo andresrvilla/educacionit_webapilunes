@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVazu6QqUjmeU6Hqn+hyz8eX4KvxMlGKEXndxh+dftGbaVm5e9TikRGH1xLc3SaGg8eQjZWFh6YvaQfXW3IajQ==",
+  "success": true,
+  "projectFilePath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API\\Instituto.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ravil\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\ravil\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\ravil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ravil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\ravil\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\ravil\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\ravil\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

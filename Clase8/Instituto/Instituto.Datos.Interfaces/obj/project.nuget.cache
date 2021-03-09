@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3akwFpK/jXinkrssMWxT7yqg3C+42m6cf6JbyW3b2eAOQWxbHWXCVjqjI7EDNhx+wLzGTi0hu4ZpqaLVGnl+YA==",
+  "success": true,
+  "projectFilePath": "D:\\EducacionIT\\Desktop\\WEB API\\Instituto\\Instituto.Datos.Interfaces\\Instituto.Datos.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

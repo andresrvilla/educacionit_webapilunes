@@ -1,0 +1,501 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API.Pruebas\\Instituto.API.Pruebas.csproj": {}
+  },
+  "projects": {
+    "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API.Pruebas\\Instituto.API.Pruebas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API.Pruebas\\Instituto.API.Pruebas.csproj",
+        "projectName": "Instituto.API.Pruebas",
+        "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API.Pruebas\\Instituto.API.Pruebas.csproj",
+        "packagesPath": "C:\\Users\\ravil\\.nuget\\packages\\",
+        "outputPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API.Pruebas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ravil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API\\Instituto.API.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API\\Instituto.API.csproj"
+              },
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.DTO\\Instituto.DTO.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.DTO\\Instituto.DTO.csproj"
+              },
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio.Interfaces\\Instituto.Negocio.Interfaces.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio.Interfaces\\Instituto.Negocio.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API\\Instituto.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API\\Instituto.API.csproj",
+        "projectName": "Instituto.API",
+        "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API\\Instituto.API.csproj",
+        "packagesPath": "C:\\Users\\ravil\\.nuget\\packages\\",
+        "outputPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ravil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.DTO\\Instituto.DTO.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.DTO\\Instituto.DTO.csproj"
+              },
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\Instituto.EntidadesNegocio.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\Instituto.EntidadesNegocio.csproj"
+              },
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio.Interfaces\\Instituto.Negocio.Interfaces.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio.Interfaces\\Instituto.Negocio.Interfaces.csproj"
+              },
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio\\Instituto.Negocio.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio\\Instituto.Negocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Datos.Interfaces\\Instituto.Datos.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Datos.Interfaces\\Instituto.Datos.Interfaces.csproj",
+        "projectName": "Instituto.Datos.Interfaces",
+        "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Datos.Interfaces\\Instituto.Datos.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\ravil\\.nuget\\packages\\",
+        "outputPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Datos.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ravil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\Instituto.EntidadesNegocio.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\Instituto.EntidadesNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.DTO\\Instituto.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.DTO\\Instituto.DTO.csproj",
+        "projectName": "Instituto.DTO",
+        "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.DTO\\Instituto.DTO.csproj",
+        "packagesPath": "C:\\Users\\ravil\\.nuget\\packages\\",
+        "outputPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ravil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\Instituto.EntidadesNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\Instituto.EntidadesNegocio.csproj",
+        "projectName": "Instituto.EntidadesNegocio",
+        "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\Instituto.EntidadesNegocio.csproj",
+        "packagesPath": "C:\\Users\\ravil\\.nuget\\packages\\",
+        "outputPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ravil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio.Interfaces\\Instituto.Negocio.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio.Interfaces\\Instituto.Negocio.Interfaces.csproj",
+        "projectName": "Instituto.Negocio.Interfaces",
+        "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio.Interfaces\\Instituto.Negocio.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\ravil\\.nuget\\packages\\",
+        "outputPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ravil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\Instituto.EntidadesNegocio.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\Instituto.EntidadesNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio\\Instituto.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio\\Instituto.Negocio.csproj",
+        "projectName": "Instituto.Negocio",
+        "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio\\Instituto.Negocio.csproj",
+        "packagesPath": "C:\\Users\\ravil\\.nuget\\packages\\",
+        "outputPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ravil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Datos.Interfaces\\Instituto.Datos.Interfaces.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Datos.Interfaces\\Instituto.Datos.Interfaces.csproj"
+              },
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\Instituto.EntidadesNegocio.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.EntidadesNegocio\\Instituto.EntidadesNegocio.csproj"
+              },
+              "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio.Interfaces\\Instituto.Negocio.Interfaces.csproj": {
+                "projectPath": "D:\\EducacionIT\\Desktop\\WEB API\\Clase9\\Instituto\\Instituto.Negocio.Interfaces\\Instituto.Negocio.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

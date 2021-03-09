@@ -1,0 +1,12 @@
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\bin\Debug\netstandard2.0\Instituto.Datos.Interfaces.deps.json
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\bin\Debug\netstandard2.0\Instituto.Datos.Interfaces.dll
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\bin\Debug\netstandard2.0\Instituto.Datos.Interfaces.pdb
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\bin\Debug\netstandard2.0\Instituto.EntidadesNegocio.dll
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\bin\Debug\netstandard2.0\Instituto.EntidadesNegocio.pdb
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\obj\Debug\netstandard2.0\Instituto.Datos.Interfaces.csprojAssemblyReference.cache
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\obj\Debug\netstandard2.0\Instituto.Datos.Interfaces.AssemblyInfoInputs.cache
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\obj\Debug\netstandard2.0\Instituto.Datos.Interfaces.AssemblyInfo.cs
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\obj\Debug\netstandard2.0\Instituto.Datos.Interfaces.csproj.CoreCompileInputs.cache
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\obj\Debug\netstandard2.0\Instituto.Datos.Interfaces.csproj.CopyComplete
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\obj\Debug\netstandard2.0\Instituto.Datos.Interfaces.dll
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.Datos.Interfaces\obj\Debug\netstandard2.0\Instituto.Datos.Interfaces.pdb

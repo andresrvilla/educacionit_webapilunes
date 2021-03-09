@@ -1,0 +1,9 @@
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.DTO\bin\Debug\netstandard2.0\Instituto.DTO.deps.json
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.DTO\bin\Debug\netstandard2.0\Instituto.DTO.dll
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.DTO\bin\Debug\netstandard2.0\Instituto.DTO.pdb
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.DTO\obj\Debug\netstandard2.0\Instituto.DTO.AssemblyInfoInputs.cache
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.DTO\obj\Debug\netstandard2.0\Instituto.DTO.AssemblyInfo.cs
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.DTO\obj\Debug\netstandard2.0\Instituto.DTO.csproj.CoreCompileInputs.cache
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.DTO\obj\Debug\netstandard2.0\Instituto.DTO.dll
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.DTO\obj\Debug\netstandard2.0\Instituto.DTO.pdb
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.DTO\obj\Debug\netstandard2.0\Instituto.DTO.csprojAssemblyReference.cache

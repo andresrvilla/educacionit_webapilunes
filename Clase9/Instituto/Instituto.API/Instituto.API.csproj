@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\PersonasController.cs~RF5200ad0.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Instituto.DTO\Instituto.DTO.csproj" />
+    <ProjectReference Include="..\Instituto.EntidadesNegocio\Instituto.EntidadesNegocio.csproj" />
+    <ProjectReference Include="..\Instituto.Negocio.Interfaces\Instituto.Negocio.Interfaces.csproj" />
+    <ProjectReference Include="..\Instituto.Negocio\Instituto.Negocio.csproj" />
+  </ItemGroup>
+
+
+</Project>

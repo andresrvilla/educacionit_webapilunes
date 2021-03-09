@@ -1,0 +1,17 @@
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.EntidadesNegocio\bin\Debug\netstandard2.0\Instituto.EntidadesNegocio.deps.json
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.EntidadesNegocio\bin\Debug\netstandard2.0\Instituto.EntidadesNegocio.dll
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.EntidadesNegocio\bin\Debug\netstandard2.0\Instituto.EntidadesNegocio.pdb
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.EntidadesNegocio\obj\Debug\netstandard2.0\Instituto.EntidadesNegocio.AssemblyInfoInputs.cache
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.EntidadesNegocio\obj\Debug\netstandard2.0\Instituto.EntidadesNegocio.AssemblyInfo.cs
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.EntidadesNegocio\obj\Debug\netstandard2.0\Instituto.EntidadesNegocio.csproj.CoreCompileInputs.cache
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.EntidadesNegocio\obj\Debug\netstandard2.0\Instituto.EntidadesNegocio.dll
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.EntidadesNegocio\obj\Debug\netstandard2.0\Instituto.EntidadesNegocio.pdb
+D:\EducacionIT\Desktop\WEB API\Instituto\Instituto.EntidadesNegocio\obj\Debug\netstandard2.0\Instituto.EntidadesNegocio.csprojAssemblyReference.cache
+D:\EducacionIT\Desktop\WEB API\Clase9\Instituto\Instituto.EntidadesNegocio\bin\Debug\netstandard2.0\Instituto.EntidadesNegocio.deps.json
+D:\EducacionIT\Desktop\WEB API\Clase9\Instituto\Instituto.EntidadesNegocio\bin\Debug\netstandard2.0\Instituto.EntidadesNegocio.dll
+D:\EducacionIT\Desktop\WEB API\Clase9\Instituto\Instituto.EntidadesNegocio\bin\Debug\netstandard2.0\Instituto.EntidadesNegocio.pdb
+D:\EducacionIT\Desktop\WEB API\Clase9\Instituto\Instituto.EntidadesNegocio\obj\Debug\netstandard2.0\Instituto.EntidadesNegocio.AssemblyInfoInputs.cache
+D:\EducacionIT\Desktop\WEB API\Clase9\Instituto\Instituto.EntidadesNegocio\obj\Debug\netstandard2.0\Instituto.EntidadesNegocio.AssemblyInfo.cs
+D:\EducacionIT\Desktop\WEB API\Clase9\Instituto\Instituto.EntidadesNegocio\obj\Debug\netstandard2.0\Instituto.EntidadesNegocio.csproj.CoreCompileInputs.cache
+D:\EducacionIT\Desktop\WEB API\Clase9\Instituto\Instituto.EntidadesNegocio\obj\Debug\netstandard2.0\Instituto.EntidadesNegocio.dll
+D:\EducacionIT\Desktop\WEB API\Clase9\Instituto\Instituto.EntidadesNegocio\obj\Debug\netstandard2.0\Instituto.EntidadesNegocio.pdb
