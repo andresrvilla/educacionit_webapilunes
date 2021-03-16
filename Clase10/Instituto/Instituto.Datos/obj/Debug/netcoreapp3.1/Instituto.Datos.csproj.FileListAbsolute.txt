@@ -1,0 +1,14 @@
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\bin\Debug\netcoreapp3.1\Instituto.Datos.deps.json
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\bin\Debug\netcoreapp3.1\Instituto.Datos.dll
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\bin\Debug\netcoreapp3.1\Instituto.Datos.pdb
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\bin\Debug\netcoreapp3.1\Instituto.Datos.Interfaces.dll
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\bin\Debug\netcoreapp3.1\Instituto.EntidadesNegocio.dll
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\bin\Debug\netcoreapp3.1\Instituto.Datos.Interfaces.pdb
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\bin\Debug\netcoreapp3.1\Instituto.EntidadesNegocio.pdb
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\obj\Debug\netcoreapp3.1\Instituto.Datos.csprojAssemblyReference.cache
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\obj\Debug\netcoreapp3.1\Instituto.Datos.AssemblyInfoInputs.cache
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\obj\Debug\netcoreapp3.1\Instituto.Datos.AssemblyInfo.cs
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\obj\Debug\netcoreapp3.1\Instituto.Datos.csproj.CoreCompileInputs.cache
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\obj\Debug\netcoreapp3.1\Instituto.Datos.csproj.CopyComplete
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\obj\Debug\netcoreapp3.1\Instituto.Datos.dll
+D:\EducacionIT\Desktop\educacionit_webapilunes\Clase10\Instituto\Instituto.Datos\obj\Debug\netcoreapp3.1\Instituto.Datos.pdb

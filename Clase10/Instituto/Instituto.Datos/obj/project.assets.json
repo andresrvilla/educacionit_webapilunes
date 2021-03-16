@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Instituto.Datos.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Instituto.EntidadesNegocio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Instituto.Datos.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Instituto.Datos.Interfaces.dll": {}
+        }
+      },
+      "Instituto.EntidadesNegocio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Instituto.EntidadesNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Instituto.EntidadesNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Instituto.Datos.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Instituto.Datos.Interfaces/Instituto.Datos.Interfaces.csproj",
+      "msbuildProject": "../Instituto.Datos.Interfaces/Instituto.Datos.Interfaces.csproj"
+    },
+    "Instituto.EntidadesNegocio/1.0.0": {
+      "type": "project",
+      "path": "../Instituto.EntidadesNegocio/Instituto.EntidadesNegocio.csproj",
+      "msbuildProject": "../Instituto.EntidadesNegocio/Instituto.EntidadesNegocio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Instituto.Datos.Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ravil\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\EducacionIT\\Desktop\\educacionit_webapilunes\\Clase10\\Instituto\\Instituto.Datos\\Instituto.Datos.csproj",
+      "projectName": "Instituto.Datos",
+      "projectPath": "D:\\EducacionIT\\Desktop\\educacionit_webapilunes\\Clase10\\Instituto\\Instituto.Datos\\Instituto.Datos.csproj",
+      "packagesPath": "C:\\Users\\ravil\\.nuget\\packages\\",
+      "outputPath": "D:\\EducacionIT\\Desktop\\educacionit_webapilunes\\Clase10\\Instituto\\Instituto.Datos\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ravil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\EducacionIT\\Desktop\\educacionit_webapilunes\\Clase10\\Instituto\\Instituto.Datos.Interfaces\\Instituto.Datos.Interfaces.csproj": {
+              "projectPath": "D:\\EducacionIT\\Desktop\\educacionit_webapilunes\\Clase10\\Instituto\\Instituto.Datos.Interfaces\\Instituto.Datos.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
